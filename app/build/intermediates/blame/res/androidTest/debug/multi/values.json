@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/JDePourcq/.android/build-cache/39b23e5ee30c9c39ac4ebf4dcb6b053e68f94d5d/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

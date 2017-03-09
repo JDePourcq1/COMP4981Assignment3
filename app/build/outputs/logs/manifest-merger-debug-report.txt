@@ -1,0 +1,73 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/JDePourcq/.android/build-cache/460d25eded401316a14096c186cba1caa8c49141/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/JDePourcq/.android/build-cache/59bac2dad741f1281d871fc700a4b3b58bf659cd/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/JDePourcq/.android/build-cache/eaa4e85ed02baa60b7db3fcc8a81b90f1451a9cb/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/JDePourcq/.android/build-cache/5465281f442b2f6138268d43c2caeff27727508b/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/JDePourcq/.android/build-cache/19d4999cb782e5e497fbeedb52d069f13ec05dfa/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/JDePourcq/.android/build-cache/ff07070ee9c22ec0aae160c7e7b6798ae4f72d2c/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/JDePourcq/.android/build-cache/83fd8493a9016a214070467b50d1c1d6990728d5/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/JDePourcq/.android/build-cache/8f40bfb36a315b1d855f60e35c4d9cab7284c2bf/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/JDePourcq/.android/build-cache/b5f830ff2ff56452707105b0756c559b7c11e850/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/JDePourcq/.android/build-cache/36df64103d9dc375cc265ffce04c5f55f5d21f82/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.team2.a4981assignment3.MainActivity
+ADDED from /Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/JDePourcq/.android/build-cache/460d25eded401316a14096c186cba1caa8c49141/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.2.0] /Users/JDePourcq/.android/build-cache/59bac2dad741f1281d871fc700a4b3b58bf659cd/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/JDePourcq/.android/build-cache/eaa4e85ed02baa60b7db3fcc8a81b90f1451a9cb/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/JDePourcq/.android/build-cache/5465281f442b2f6138268d43c2caeff27727508b/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/JDePourcq/.android/build-cache/19d4999cb782e5e497fbeedb52d069f13ec05dfa/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/JDePourcq/.android/build-cache/ff07070ee9c22ec0aae160c7e7b6798ae4f72d2c/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/JDePourcq/.android/build-cache/83fd8493a9016a214070467b50d1c1d6990728d5/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/JDePourcq/.android/build-cache/8f40bfb36a315b1d855f60e35c4d9cab7284c2bf/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.2.0] /Users/JDePourcq/.android/build-cache/b5f830ff2ff56452707105b0756c559b7c11e850/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/JDePourcq/.android/build-cache/36df64103d9dc375cc265ffce04c5f55f5d21f82/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.2.0] /Users/JDePourcq/.android/build-cache/460d25eded401316a14096c186cba1caa8c49141/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/src/main/AndroidManifest.xml

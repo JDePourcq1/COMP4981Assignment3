@@ -1,0 +1,4 @@
+#Thu Mar 09 10:10:54 PST 2017
+base.0=/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5
+renamed.0=classes.dex
+file.0=/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex

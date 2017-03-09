@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/JDePourcq/.android/build-cache/460d25eded401316a14096c186cba1caa8c49141/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/pre-dexed/debug/classes_4fcf7a217823d3f54251731c5a4ec8086bb4bd8c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JDePourcq/.android/build-cache/460d25eded401316a14096c186cba1caa8c49141/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4fcf7a217823d3f54251731c5a4ec8086bb4bd8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JDePourcq/.android/build-cache/ff07070ee9c22ec0aae160c7e7b6798ae4f72d2c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b47a6c51b61cf1c02694975806c25b3652b0dc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JDePourcq/.android/build-cache/ff07070ee9c22ec0aae160c7e7b6798ae4f72d2c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/pre-dexed/debug/classes_8b47a6c51b61cf1c02694975806c25b3652b0dc4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="064ed0305e7a10aea7ab309f7c662634d614a1b4">
+        <dex dex="/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_25cb6d75e08d87491f42378d964e1887c3fc8eff/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JDePourcq/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_655afbd27116122ad34a3256e87b2aaff0ed1a7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JDePourcq/.android/build-cache/5465281f442b2f6138268d43c2caeff27727508b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/pre-dexed/debug/classes_3c669b1db3e739fbf9fff7768d734821c5615b6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JDePourcq/.android/build-cache/36df64103d9dc375cc265ffce04c5f55f5d21f82/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/pre-dexed/debug/classes_b1591ce55aa429e4c2aa8d381b4034cd597e8360.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JDePourcq/.android/build-cache/36df64103d9dc375cc265ffce04c5f55f5d21f82/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b1591ce55aa429e4c2aa8d381b4034cd597e8360/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JDePourcq/.android/build-cache/19d4999cb782e5e497fbeedb52d069f13ec05dfa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/pre-dexed/debug/classes_140180622c7435ca12c6f6cdd0aae9ec0db901a3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JDePourcq/.android/build-cache/5465281f442b2f6138268d43c2caeff27727508b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3c669b1db3e739fbf9fff7768d734821c5615b6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JDePourcq/.android/build-cache/83fd8493a9016a214070467b50d1c1d6990728d5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/pre-dexed/debug/classes_63223a6ebd4c86a24d18398c65c895650943415b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JDePourcq/.android/build-cache/83fd8493a9016a214070467b50d1c1d6990728d5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_63223a6ebd4c86a24d18398c65c895650943415b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JDePourcq/.android/build-cache/19d4999cb782e5e497fbeedb52d069f13ec05dfa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_140180622c7435ca12c6f6cdd0aae9ec0db901a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JDePourcq/.android/build-cache/8f40bfb36a315b1d855f60e35c4d9cab7284c2bf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/pre-dexed/debug/classes_a5ca819267b816d1c27cb0bc9722d282723ccd7a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JDePourcq/.android/build-cache/8f40bfb36a315b1d855f60e35c4d9cab7284c2bf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a5ca819267b816d1c27cb0bc9722d282723ccd7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JDePourcq/.android/build-cache/59bac2dad741f1281d871fc700a4b3b58bf659cd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_86e004f8b81fc40c614339d695147049157f3617/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JDePourcq/.android/build-cache/59bac2dad741f1281d871fc700a4b3b58bf659cd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/pre-dexed/debug/classes_86e004f8b81fc40c614339d695147049157f3617.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JDePourcq/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_655afbd27116122ad34a3256e87b2aaff0ed1a7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JDePourcq/.android/build-cache/eaa4e85ed02baa60b7db3fcc8a81b90f1451a9cb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb7433a88e4c2eb59c1f6d0a307b455e4a9c2ab7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_25c1e0a5cb883398de580ad96a99438230c33b9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JDePourcq/.android/build-cache/eaa4e85ed02baa60b7db3fcc8a81b90f1451a9cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/pre-dexed/debug/classes_bb7433a88e4c2eb59c1f6d0a307b455e4a9c2ab7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JDePourcq/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_e2005820b48ebd0f50e8b283da4dd19c11dbd95b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JDePourcq/.android/build-cache/b5f830ff2ff56452707105b0756c559b7c11e850/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f7d1fc96dff6dd2124fe567f1b143e601acac1d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JDePourcq/.android/build-cache/b5f830ff2ff56452707105b0756c559b7c11e850/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/pre-dexed/debug/classes_f7d1fc96dff6dd2124fe567f1b143e601acac1d5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JDePourcq/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_e2005820b48ebd0f50e8b283da4dd19c11dbd95b/classes.dex" />
+    </item>
+
+</items>

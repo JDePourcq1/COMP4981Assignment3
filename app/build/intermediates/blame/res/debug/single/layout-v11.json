@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/JDePourcq/.android/build-cache/460d25eded401316a14096c186cba1caa8c49141/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/JDePourcq/.android/build-cache/460d25eded401316a14096c186cba1caa8c49141/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/JDePourcq/.android/build-cache/460d25eded401316a14096c186cba1caa8c49141/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/JDePourcq/.android/build-cache/460d25eded401316a14096c186cba1caa8c49141/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/JDePourcq/.android/build-cache/460d25eded401316a14096c186cba1caa8c49141/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/JDePourcq/.android/build-cache/460d25eded401316a14096c186cba1caa8c49141/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/JDePourcq/.android/build-cache/460d25eded401316a14096c186cba1caa8c49141/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/JDePourcq/.android/build-cache/460d25eded401316a14096c186cba1caa8c49141/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/JDePourcq/.android/build-cache/460d25eded401316a14096c186cba1caa8c49141/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/JDePourcq/Desktop/SchoolWork/Term3/COMP3717/4981Assignment3/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/JDePourcq/.android/build-cache/460d25eded401316a14096c186cba1caa8c49141/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]
